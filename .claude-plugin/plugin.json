@@ -1,0 +1,5 @@
+{
+  "name": "ralph",
+  "description": "Simple Ralph loop - uses /clear for fresh context each iteration",
+  "author": {"name": "User"}
+}
